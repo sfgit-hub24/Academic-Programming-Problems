@@ -1,5 +1,5 @@
 # Mini Projects
-This repository contains my college mini projects and practice programs.
+This repository contains my college mini projects and academic programming work
 ## Technologies Used
 - C
 - Java
